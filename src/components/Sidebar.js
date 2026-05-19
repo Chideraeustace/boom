@@ -43,7 +43,7 @@ export default function Sidebar({
         <div className="flex items-center gap-2">
           <Database className="text-blue-500 w-6 h-6" />
           <span className="text-xl font-bold tracking-wider bg-gradient-to-r from-blue-400 to-indigo-400 bg-clip-text text-transparent">
-            EchoData Admin
+            BOOM Admin
           </span>
         </div>
         <button
